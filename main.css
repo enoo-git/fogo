@@ -76,7 +76,7 @@ a:hover {
 .tabbed [type="radio"]:nth-of-type(4):checked ~ .tabs .tab:nth-of-type(4) label,
 .tabbed [type="radio"]:nth-of-type(5):checked ~ .tabs .tab:nth-of-type(5) label {
     border-bottom-color: #fff;
-    border-top-color: #B721FF;
+    border-top-color: #ff3d00;
     background: #fff;
     color: #222;
 }
