@@ -46,7 +46,7 @@ a:hover {
     border-bottom: 1px solid #ccc;
 }
 
-@media(max-width:1024px) {
+@media(max-width:792px) {
     .tabs {
         flex-direction:column;
     }
